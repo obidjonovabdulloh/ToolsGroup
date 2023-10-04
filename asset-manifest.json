@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77dc7905.css",
+    "main.js": "/static/js/main.ace2e229.js",
+    "static/media/background.png": "/static/media/background.8c1effe97af23734c991.png",
+    "static/media/origEdit.png": "/static/media/origEdit.e70915d394fa880e6db2.png",
+    "static/media/product.png": "/static/media/product.b33a6c22f8e0ff9e14dc.png",
+    "static/media/likedbox.png": "/static/media/likedbox.d3ed28f1640c0f0802e5.png",
+    "static/media/error.png": "/static/media/error.af3a30191410f5318e5b.png",
+    "static/media/instagram.svg": "/static/media/instagram.c97a10bb1be0b41a88aeb5dc0be17bd5.svg",
+    "index.html": "/index.html",
+    "static/media/playmarket.svg": "/static/media/playmarket.a0f4d8a471ec172c4b78032f3840da96.svg",
+    "static/media/tabler_truck-delivery.svg": "/static/media/tabler_truck-delivery.4517aa17be79cc167173a7820a375ee1.svg",
+    "static/media/Icons(2).svg": "/static/media/Icons(2).5be29b86ed8c07056fc4d2076142a478.svg",
+    "static/media/Icons.svg": "/static/media/Icons.1124c997ec52232365e5d6edb5229b6f.svg",
+    "static/media/Icons(1).svg": "/static/media/Icons(1).62257ff0ec8abd67fc994808836aed71.svg",
+    "main.77dc7905.css.map": "/static/css/main.77dc7905.css.map",
+    "main.ace2e229.js.map": "/static/js/main.ace2e229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77dc7905.css",
+    "static/js/main.ace2e229.js"
+  ]
+}
